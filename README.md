@@ -20,7 +20,6 @@ The project is organized into folders and files, each focusing on a specific con
 #### Main.java
 The main entry point of the project, showcasing various examples.
 
----
 
 ### **Fundamentals/** 
 This folder contains essential examples and code snippets that demonstrate Java basics:
@@ -29,7 +28,6 @@ This folder contains essential examples and code snippets that demonstrate Java 
 - **Wrappers.java** - Working with wrapper classes.
 - **TiposPrimitivos.java** - Overview of primitive data types.
 
----
 
 ### **Operators/**
 This folder highlights examples of Java operators and logical constructs:
@@ -37,7 +35,6 @@ This folder highlights examples of Java operators and logical constructs:
 - **Ternario.java** - Conditional (ternary) operator.
 - Other logical and arithmetic operator examples.
 
----
 
 ### **Exercises/**
 Contains coding exercises designed to test and reinforce understanding of Java fundamentals.
