@@ -23,16 +23,16 @@ The entry point of the project. This file contains examples that demonstrate cor
 
 ### **Fundamentals/** 
 This folder contains essential examples and code snippets that demonstrate Java basics:
-- **ConversaoTipoPrimitivoNumerico.java** - Demonstrates type conversion and type casting, essential for changing one data type into another (e.g., casting from int to double).
-- **TipoString.java & TipoStringEquals.java** - TipoString.java showcases various string operations such as concatenation, length, and substring operations. TipoStringEquals.java explores how to compare strings for equality, focusing on the difference between using == and .equals() for string comparison.
-- **Wrappers.java** - Introduces wrapper classes for primitive types, explaining how objects like Integer, Double, Boolean, etc., are used to wrap the basic types and provide additional methods.
+- ConversaoTipoPrimitivoNumerico.java: Demonstrates type conversion and type casting, essential for changing one data type into another (e.g., casting from int to double).
+- TipoString.java & TipoStringEquals.java: TipoString.java showcases various string operations such as concatenation, length, and substring operations. TipoStringEquals.java explores how to compare strings for equality, focusing on the difference between using == and .equals() for string comparison.
+- Wrappers.java: Introduces wrapper classes for primitive types, explaining how objects like Integer, Double, Boolean, etc., are used to wrap the basic types and provide additional methods.
 - **TiposPrimitivos.java** - An overview of primitive data types in Java (e.g., int, double, char, boolean) and their default values, size, and use cases.
 
 
 ### **Operators/**
 This folder highlights examples of Java operators and logical constructs:
-- **Relacionais.java** - Examples of relational and comparison operators (<, >, ==, !=, <=, >=) and their usage in Java for comparing primitive types.
-- **Ternario.java** - A detailed exploration of the ternary (conditional) operator, a shorthand for simple if-else conditions in Java. Example: condition ? value1 : value2.
+- Relacionais.java: Examples of relational and comparison operators (<, >, ==, !=, <=, >=) and their usage in Java for comparing primitive types.
+- Ternario.java: A detailed exploration of the ternary (conditional) operator, a shorthand for simple if-else conditions in Java. Example: condition ? value1 : value2.
 - Additional examples focusing on other logical (e.g., &&, ||, !) and arithmetic operators (e.g., +, -, *, /, %).
 
 
