@@ -17,9 +17,8 @@ Key concepts covered:
 The project is organized in a way that allows for easy navigation, each section focusing on specific aspects of Java. Here is a breakdown of the file and folder structure:
 
 ### **Main Files**
-#### Main.java
+### Main.java
 The entry point of the project. This file contains examples that demonstrate core Java concepts, showing how the theory is applied in code.
-
 
 ### **Fundamentals/** 
 This folder contains essential examples and code snippets that demonstrate Java basics:
@@ -28,13 +27,11 @@ This folder contains essential examples and code snippets that demonstrate Java 
 - Wrappers.java: Introduces wrapper classes for primitive types, explaining how objects like Integer, Double, Boolean, etc., are used to wrap the basic types and provide additional methods.
 - **TiposPrimitivos.java** - An overview of primitive data types in Java (e.g., int, double, char, boolean) and their default values, size, and use cases.
 
-
 ### **Operators/**
 This folder highlights examples of Java operators and logical constructs:
 - Relacionais.java: Examples of relational and comparison operators (<, >, ==, !=, <=, >=) and their usage in Java for comparing primitive types.
 - Ternario.java: A detailed exploration of the ternary (conditional) operator, a shorthand for simple if-else conditions in Java. Example: condition ? value1 : value2.
 - Additional examples focusing on other logical (e.g., &&, ||, !) and arithmetic operators (e.g., +, -, *, /, %).
-
 
 ### **Exercises/**
 Contains practical exercises to solidify the understanding of Java fundamentals. These exercises are meant to challenge developers and provide hands-on experience with different topics.
